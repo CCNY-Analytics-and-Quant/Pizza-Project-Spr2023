@@ -1,7 +1,7 @@
 # Pizza-Project-Spr2023
 Carter Le
 
-The goal of this project is to see where the opportunities lies in selling the most amount of pizzas. I used line plots and bar charts to figure out trends in pizza selling. 
+The goal of this project is to see where the opportunities lies in selling the most amount of pizzas. Using SQL, I extracted the data I wanted into CSV from the database. Then, I used Python, matplotlib, and seaborn to graph charts. I used line plots and bar charts to figure out trends in pizza selling. 
 
 
 Chart Image Description
