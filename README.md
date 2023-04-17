@@ -1,6 +1,8 @@
 # Pizza-Project-Spr2023
 Carter Le
 
+The goal of this project is to see where the opportunities lies in selling the most amount of pizzas. I used line plots and bar charts to figure out trends in pizza selling. 
+
 
 Chart Image Description
 
@@ -24,6 +26,6 @@ Chart 8 - Time over the Year vs Revenue of (Top 10) Pizza Type Id Sold (Line Plo
 
 
 
-I made these charts one after the other in the order I thought was most necessary. I initially only thought of making Charts 1-5, but when I made Chart 5, I realized I needed to focus on revenue, since my project was based on profit. Revenue is not profit, but there was no cost of running the business to calculate profit. 
+I made these charts one after the other in the order I thought was most necessary. I initially only thought of making Charts 1-5, but when I made Chart 5, I realized I needed to focus on revenue and time.
 
 The presentation did not use all 8 charts and did not use the same order. It was only after making the charts did I figure out what order I should have made them in. 
