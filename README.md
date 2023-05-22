@@ -33,4 +33,6 @@ Chart 13 - Top 10 Pizza Orders by # of Pizzas Sold and Revenue ($) by Hour (Scat
 
 Chart 14 - Revenue by Pizza Size and Type (Stacked Bar Chart)
 
+For my project, I only used Charts 11 - 14. The other charts were created out of exploration.
+
 
