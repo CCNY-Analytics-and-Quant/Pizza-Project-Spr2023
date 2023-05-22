@@ -23,9 +23,14 @@ Chart 7 - Time over the Year vs Revenue by Pizza Category (Line Plot)
 
 Chart 8 - Time over the Year vs Revenue of (Top 10) Pizza Type Id Sold (Line Plot)
 
+Chart 11 - Top Pizza Categories by # of Pizzas Sold and Revenue ($) by Day (Scatterplot)
+
+Chart 12 - Top 10 Pizza Orders by # of Pizzas Sold and Revenue ($) by Day (Scatterplot)
+
+Chart 12A - Top 10 Pizza Orders by # of Pizzas Sold and Revenue ($) by Week (Scatterplot)
+
+Chart 13 - Top 10 Pizza Orders by # of Pizzas Sold and Revenue ($) by Hour (Scatterplot)
+
+Chart 14 - Revenue by Pizza Size and Type (Stacked Bar Chart)
 
 
-
-I made these charts one after the other in the order I thought was most necessary. I initially only thought of making Charts 1-5, but when I made Chart 5, I realized I needed to focus on revenue and time.
-
-The presentation did not use all 8 charts and did not use the same order. It was only after making the charts did I figure out what order I should have made them in. 
